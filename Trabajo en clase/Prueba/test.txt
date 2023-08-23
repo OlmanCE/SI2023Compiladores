@@ -1,0 +1,5 @@
+let var i : int
+in
+    i := 20
+    print(i)
+end
